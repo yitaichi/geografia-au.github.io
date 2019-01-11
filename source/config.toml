@@ -1,7 +1,7 @@
-baseurl = "https://yitaichi.github.io/taijiquan/"
+baseurl = "https://yitaichi.github.io/"
 languageCode = "en-us"
 title = "壹太极: 顶级太极大师传人亲自授课"
-theme = "geografia_theme"
+theme = "taijiquan"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
